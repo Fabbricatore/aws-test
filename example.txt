@@ -1,8 +1,2 @@
 This is an example
-This is a change we are making.
-<<<<<<< HEAD
-Ok, here's the error.
-=======
-Anch this is another change.
-Ulterior change.
->>>>>>> images-stuff
+And here is the problem.
